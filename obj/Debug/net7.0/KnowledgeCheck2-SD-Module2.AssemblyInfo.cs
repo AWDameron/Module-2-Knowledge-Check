@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KnowledgeCheck2-SD-Module2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3bca5a9ab03275e67573f6e9450e8d2a39062e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41e5abb21e01ddcfc414298fc6954aa45cc3c91b")]
 [assembly: System.Reflection.AssemblyProductAttribute("KnowledgeCheck2-SD-Module2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KnowledgeCheck2-SD-Module2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

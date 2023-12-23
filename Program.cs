@@ -26,9 +26,8 @@ internal class Program
 
             cakeList.Add(CakeValue);
         }
-        Console.WriteLine();
-        Console.WriteLine();
-        Console.WriteLine();
+        
+      
         foreach (var cake in cakeList)
         {
             Console.WriteLine("-----------------");
